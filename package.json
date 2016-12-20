@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "@recruitee/brunch-hmr",
+  "version": "1.0.0",
+  "description": "Brunch plugin for HMR in NG2 projects. [dev-only]",
+  "main": "index.js",
+  "keywords": [
+    "brunch",
+    "angular2",
+    "hmr"
+  ],
+  "author": "Jan Zieliński",
+  "license": "ISC",
+  "dependencies": {}
+}
